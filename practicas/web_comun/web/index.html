@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Mi pagina en el ESP32</title>
+<!-- Este archivo va embebido en el binario: sin CDN ni recursos externos -->
+<style>
+  body{
+    margin:0; min-height:100vh; background:#0f172a; color:#e2e8f0;
+    font-family:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
+    display:flex; flex-direction:column; align-items:center;
+    justify-content:center; gap:22px; text-align:center; padding:20px;
+  }
+  h1{font-size:1.4rem; margin:0}
+  h1 span{color:#38bdf8}
+  #foco{
+    width:110px; height:110px; border-radius:50%;
+    background:#334155; border:3px solid #475569; transition:.2s;
+  }
+  #foco.on{background:#facc15; border-color:#fde047; box-shadow:0 0 40px #facc15aa}
+  input{
+    width:120px; padding:12px; font-size:1.2rem; text-align:center;
+    color:#e2e8f0; background:#1e293b; border:2px solid #475569;
+    border-radius:10px;
+  }
+  #aleatorio{font-size:2rem; font-weight:700; color:#38bdf8}
+  button{
+    padding:15px 34px; font-size:1.05rem; font-weight:600; cursor:pointer;
+    color:#0f172a; background:#38bdf8; border:0; border-radius:10px;
+  }
+</style>
+</head>
+<body>
+
+  <h1>Pagina servida por la <span>XIAO ESP32-S3</span></h1>
+
+  <div>Numero aleatorio del ESP32: <span id="aleatorio">--</span></div>
+
+  <div id="foco"></div>
+  <input id="valor" type="number" min="0" max="255" placeholder="0-255">
+  <button id="btn">Enviar</button>
+
+<script>
+  // GET /aleatorio devuelve el ultimo numero generado (se pide una sola vez)
+  fetch('/aleatorio').then(r => r.text()).then(t => {
+    document.getElementById('aleatorio').textContent = t;
+  });
+
+  // GET /enviar?valor=N contesta "1" si N coincide con el valor del ESP32
+  document.getElementById('btn').onclick = async () => {
+    const valor = document.getElementById('valor').value;
+    const respuesta = await fetch('/enviar?valor=' + valor);
+    const coincide = (await respuesta.text()) === '1';
+    document.getElementById('foco').className = coincide ? 'on' : '';
+  };
+</script>
+</body>
+</html>

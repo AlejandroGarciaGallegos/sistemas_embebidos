@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+grabaciones/
+modelos/
+motores/
+*.log

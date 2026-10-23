@@ -1,0 +1,17 @@
+{
+  "idf.currentSetup": "C:\\esp\\v6.1-beta1\\esp-idf",
+  "idf.customExtraVars": {
+    "IDF_TARGET": "esp32s3"
+  },
+  "clangd.path": "C:\\Espressif\\tools\\esp-clangd\\esp-21.1.3_20260408\\esp-clangd\\bin\\clangd.exe",
+  "clangd.arguments": [
+    "--background-index",
+    "--query-driver=**",
+    "--compile-commands-dir=c:\\Users\\echav\\Documents\\Sistemas Embebidos\\PracticasClase\\clase4\\Freertos_demos_paquete\\Freertos_demos\\build"
+  ],
+  "idf.openOcdConfigs": [
+    "board/esp32s3-builtin.cfg"
+  ],
+  "idf.flashType": "UART",
+  "idf.port": "COM4"
+}

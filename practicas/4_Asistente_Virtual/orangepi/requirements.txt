@@ -1,0 +1,2 @@
+# Las pruebas de audio usan la biblioteca estandar. Este paquete solo controla WS.
+websocket-client==1.8.0

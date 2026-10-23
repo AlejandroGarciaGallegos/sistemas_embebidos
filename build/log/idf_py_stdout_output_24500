@@ -1,0 +1,41 @@
+Command: ninja all
+[1/9] Performing build step for 'bootloader'
+[1/1] C:\WINDOWS\system32\cmd.exe /C "cd /D "C:\Users\echav\Documents\Sistemas Embebidos\PracticasClase\clase4\Freertos_demos_paquete\Freertos_demos\build\bootloader" && C:\Espressif\tools\python\v6.1-beta1\venv\Scripts\python.exe C:/esp/v6.1-beta1/esp-idf/components/partition_table/check_sizes.py --offset 0x8000 bootloader 0x0 "C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/bootloader.bin""
+Bootloader binary size 0x5280 bytes. 0x2d80 bytes (36%) free.
+[2/9] No install step for 'bootloader'
+[3/9] Completed 'bootloader'
+[4/9] Building C object esp-idf/4_Asistente_Virtual/CMakeFiles/__idf_4_Asistente_Virtual.dir/4_Asistente_Virtual.c.obj
+In file included from C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/components/u8g2-hal-esp-idf/include/u8g2_esp32_hal.h:22,
+                 from C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/practicas/4_Asistente_Virtual/4_Asistente_Virtual.c:31:
+C:/esp/v6.1-beta1/esp-idf/components/driver/i2c/include/driver/i2c.h:13:9: note: '#pragma message: 
+================================ CRITICAL WARNING ================================
+This legacy I2C driver (driver/i2c.h) is officially END-OF-LIFE (EOL) as of ESP-IDF v6.0.
+
+1. NO SUPPORT: ESP-IDF will not provide updates, bug fixes, or security patches timely.
+2. PLANNED REMOVAL: This driver WILL BE REMOVED in ESP-IDF v7.0 (next major release).
+3. ACTION REQUIRED: Migrate to 'driver/i2c_master.h' or 'driver/i2c_slave.h' immediately.
+   - If you are a library maintainer, please update your code.
+   - If you are using 3rd-party libraries, contact the authors for updates.
+
+4. SUPPRESS WARNING: Set Kconfig 'CONFIG_I2C_SUPPRESS_DEPRECATE_WARN=y' to silent
+   this warning. However, by doing so, YOU ASSUME ALL RISKS including potential
+   security vulnerabilities, system instability, and future incompatibility.
+
+For API reference of the new I2C driver, see: https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-reference/peripherals/i2c.html
+For other items about migration, see: https://docs.espressif.com/projects/esp-idf/en/latest/esp32/migration-guides/index.html
+==================================================================================
+   '
+   13 | #pragma message("\n" \
+      |         ^~~~~~~
+[5/9] Linking C static library esp-idf\4_Asistente_Virtual\lib4_Asistente_Virtual.a
+[6/9] Generating esp-idf/esp_system/ld/sections.ld
+Skipping linker script generation, section names unchanged
+[7/9] Linking CXX executable Freertos_demos.elf
+[8/9] Generating binary image from built executable
+esptool v5.3.1
+Creating ESP32-S3 image...
+Merged 4 ELF sections.
+Successfully created ESP32-S3 image.
+Generated C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/Freertos_demos.bin
+[9/9] C:\WINDOWS\system32\cmd.exe /C "cd /D "C:\Users\echav\Documents\Sistemas Embebidos\PracticasClase\clase4\Freertos_demos_paquete\Freertos_demos\build" && C:\Espressif\tools\python\v6.1-beta1\venv\Scripts\python.exe C:/esp/v6.1-beta1/esp-idf/components/partition_table/check_sizes.py --offset 0x8000 partition --type app "C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/partition_table/partition-table.bin" "C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/Freertos_demos.bin""
+Freertos_demos.bin binary size 0xde890 bytes. Smallest app partition is 0x100000 bytes. 0x21770 bytes (13%) free.

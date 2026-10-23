@@ -1,0 +1,12 @@
+Command: cmake -G Ninja -B C:\Users\echav\Documents\Sistemas Embebidos\PracticasClase\clase4\Freertos_demos_paquete\Freertos_demos\build -DPYTHON_DEPS_CHECKED=1 -DPYTHON=C:\Espressif\tools\python\v6.1-beta1\venv\Scripts\python.exe -DESP_PLATFORM=1 -DIDF_TARGET=esp32s3 -DCCACHE_ENABLE=False C:\Users\echav\Documents\Sistemas Embebidos\PracticasClase\clase4\Freertos_demos_paquete\Freertos_demos
+CMake Error at C:/esp/v6.1-beta1/esp-idf/tools/cmake/build.cmake:380 (message):
+  Failed to resolve component 'web_comun' required by component
+  '1_Servidor_web_STA': unknown name.
+Call Stack (most recent call first):
+  C:/esp/v6.1-beta1/esp-idf/tools/cmake/build.cmake:423 (__build_resolve_and_add_req)
+  C:/esp/v6.1-beta1/esp-idf/tools/cmake/build.cmake:424 (__build_expand_requirements)
+  C:/esp/v6.1-beta1/esp-idf/tools/cmake/build.cmake:784 (__build_expand_requirements)
+  C:/esp/v6.1-beta1/esp-idf/tools/cmake/project.cmake:773 (idf_build_process)
+  CMakeLists.txt:17 (project)
+
+

@@ -1,0 +1,5 @@
+"-specs=C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/specs/picolibc.specs"
+-mlongcalls
+-fno-builtin-memcpy
+-fno-builtin-memset
+-fno-builtin-bzero

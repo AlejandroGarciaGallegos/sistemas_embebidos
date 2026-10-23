@@ -1,0 +1,4 @@
+# La camara no viene en ESP-IDF: el component manager la descarga
+# (queda en managed_components/ al compilar)
+dependencies:
+  espressif/esp32-camera: "2.1.8"

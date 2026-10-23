@@ -1,0 +1,7 @@
+-mlongcalls
+-fno-builtin-memcpy
+-fno-builtin-memset
+-fno-builtin-bzero
+-mdisable-hardware-atomics
+"-specs=C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/specs/picolibc.specs"
+-fno-rtti

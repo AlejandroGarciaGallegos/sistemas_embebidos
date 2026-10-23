@@ -1,0 +1,24 @@
+Command: cmake -G Ninja -B C:\Users\echav\Documents\Sistemas Embebidos\PracticasClase\clase4\Freertos_demos_paquete\Freertos_demos\build -DPYTHON_DEPS_CHECKED=1 -DPYTHON=C:\Espressif\tools\python\v6.1-beta1\venv\Scripts\python.exe -DESP_PLATFORM=1 -DIDF_TARGET=esp32s3 -DCCACHE_ENABLE=False C:\Users\echav\Documents\Sistemas Embebidos\PracticasClase\clase4\Freertos_demos_paquete\Freertos_demos
+-- Existing sdkconfig 'C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/sdkconfig' renamed to 'C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/sdkconfig.old'.
+-- Found Git: C:/Program Files/Git/cmd/git.exe (found version "2.51.1.windows.1")
+-- Component directory C:/esp/v6.1-beta1/esp-idf/components/idf_test does not contain a CMakeLists.txt file. No component will be added
+-- Minimal build - OFF
+-- The C compiler identification is GNU 15.2.0
+-- The CXX compiler identification is GNU 15.2.0
+-- The ASM compiler identification is GNU
+-- Found assembler: C:/Espressif/tools/xtensa-esp-elf/esp-15.2.0_20251204/xtensa-esp-elf/bin/xtensa-esp32s3-elf-gcc.exe
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: C:/Espressif/tools/xtensa-esp-elf/esp-15.2.0_20251204/xtensa-esp-elf/bin/xtensa-esp32s3-elf-gcc.exe - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: C:/Espressif/tools/xtensa-esp-elf/esp-15.2.0_20251204/xtensa-esp-elf/bin/xtensa-esp32s3-elf-g++.exe - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- git rev-parse returned 'fatal: not a git repository (or any of the parent directories): .git'
+-- Could not use 'git describe' to determine PROJECT_VER.
+-- Building ESP-IDF components for target esp32s3
+-- ESP-TEE is currently supported only on the esp32c6;esp32h2;esp32c5;esp32c61 SoCs
+-- Configuring incomplete, errors occurred!

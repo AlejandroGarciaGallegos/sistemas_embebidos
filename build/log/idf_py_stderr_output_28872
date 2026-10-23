@@ -1,0 +1,103 @@
+Command: cmake -G Ninja -B C:\Users\echav\Documents\Sistemas Embebidos\PracticasClase\clase4\Freertos_demos_paquete\Freertos_demos\build -DPYTHON_DEPS_CHECKED=1 -DPYTHON=C:\Espressif\tools\python\v6.1-beta1\venv\Scripts\python.exe -DESP_PLATFORM=1 -DCCACHE_ENABLE=True C:\Users\echav\Documents\Sistemas Embebidos\PracticasClase\clase4\Freertos_demos_paquete\Freertos_demos
+NOTE: C:/esp/v6.1-beta1/esp-idf/components/bt/host/nimble/Kconfig.in:1421: BT_NIMBLE_MESH_PROVISIONER: 'default 0' is not a valid bool value (only 'y' and 'n' are allowed). Value is treated as 'n'.
+NOTE: C:/esp/v6.1-beta1/esp-idf/components/fatfs/Kconfig:240: FATFS_PRINT_LLI: 'default 0' is not a valid bool value (only 'y' and 'n' are allowed). Value is treated as 'n'.
+NOTE: C:/esp/v6.1-beta1/esp-idf/components/fatfs/Kconfig:245: FATFS_PRINT_FLOAT: 'default 0' is not a valid bool value (only 'y' and 'n' are allowed). Value is treated as 'n'.
+NOTE: C:/esp/v6.1-beta1/esp-idf/components/bt/sdkconfig.rename.esp32s3:4: duplicate rename mapping for CONFIG_BT_NIMBLE_COEX_PHY_CODED_TX_RX_TLIM_EN: previous target CONFIG_BT_LE_COEX_PHY_CODED_TX_RX_TLIM_EN, new target CONFIG_BT_CTRL_COEX_PHY_CODED_TX_RX_TLIM_EN - last mapping is used
+NOTE: C:/esp/v6.1-beta1/esp-idf/components/bt/sdkconfig.rename.esp32s3:5: duplicate rename mapping for CONFIG_BT_NIMBLE_COEX_PHY_CODED_TX_RX_TLIM_DIS: previous target CONFIG_BT_LE_COEX_PHY_CODED_TX_RX_TLIM_DIS, new target CONFIG_BT_CTRL_COEX_PHY_CODED_TX_RX_TLIM_DIS - last mapping is used
+Loading defaults file C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/sdkconfig.defaults...
+Default value for ESP_INT_WDT_TIMEOUT_MS in sdkconfig is 300 but it is 800 according to Kconfig.
+Using default value from sdkconfig (300).
+NOTE: Kconfig parser version: 1
+NOTE: Kconfig defaults policy: use sdkconfig
+NOTE: Status: Finished with notifications
+NOTE: C:/esp/v6.1-beta1/esp-idf/components/esp_system/Kconfig:281: ESP_INT_WDT_TIMEOUT_MS: Kconfig default value: 800, sdkconfig default value: 300
+HINT: This area reports issues with default values of the config options.
+For more information, please visit https://docs.espressif.com/projects/esp-idf-kconfig/en/latest/kconfiglib/configuration-report.html#default-value-mismatch
+CMake Warning at C:/esp/v6.1-beta1/esp-idf/tools/cmake/component_validation.cmake:106 (message):
+  Private include directory
+  'C:/esp/v6.1-beta1/esp-idf/components/esp_wifi/wifi_apps/roaming_app/include'
+  belongs to component esp_wifi but is being used by component
+  wpa_supplicant.  It is recommended to define the component dependency for
+  wpa_supplicant on the component esp_wifi, i.e.  'idf_component_register(...
+  PRIV_REQUIRES esp_wifi)' in the CMakeLists.txt of wpa_supplicant, and
+  specify the included directory as idf_component_register(...
+  PRIV_INCLUDE_DIRS <dir relative to component>) in the CMakeLists.txt of
+  component esp_wifi.
+Call Stack (most recent call first):
+  C:/esp/v6.1-beta1/esp-idf/tools/cmake/component_validation.cmake:130 (__component_validation_check_include_dirs)
+  C:/esp/v6.1-beta1/esp-idf/CMakeLists.txt:356 (__component_validation_run_checks)
+
+
+CMake Warning at C:/esp/v6.1-beta1/esp-idf/tools/cmake/component_validation.cmake:106 (message):
+  Private include directory
+  'C:/esp/v6.1-beta1/esp-idf/components/esp_wifi/wifi_apps/roaming_app/src'
+  belongs to component esp_wifi but is being used by component
+  wpa_supplicant.  It is recommended to define the component dependency for
+  wpa_supplicant on the component esp_wifi, i.e.  'idf_component_register(...
+  PRIV_REQUIRES esp_wifi)' in the CMakeLists.txt of wpa_supplicant, and
+  specify the included directory as idf_component_register(...
+  PRIV_INCLUDE_DIRS <dir relative to component>) in the CMakeLists.txt of
+  component esp_wifi.
+Call Stack (most recent call first):
+  C:/esp/v6.1-beta1/esp-idf/tools/cmake/component_validation.cmake:130 (__component_validation_check_include_dirs)
+  C:/esp/v6.1-beta1/esp-idf/CMakeLists.txt:356 (__component_validation_run_checks)
+
+
+CMake Warning at C:/esp/v6.1-beta1/esp-idf/tools/cmake/component_validation.cmake:106 (message):
+  Private include directory
+  'C:/esp/v6.1-beta1/esp-idf/components/esp_wifi/wifi_apps/include/apps_private'
+  belongs to component esp_wifi but is being used by component
+  wpa_supplicant.  It is recommended to define the component dependency for
+  wpa_supplicant on the component esp_wifi, i.e.  'idf_component_register(...
+  PRIV_REQUIRES esp_wifi)' in the CMakeLists.txt of wpa_supplicant, and
+  specify the included directory as idf_component_register(...
+  PRIV_INCLUDE_DIRS <dir relative to component>) in the CMakeLists.txt of
+  component esp_wifi.
+Call Stack (most recent call first):
+  C:/esp/v6.1-beta1/esp-idf/tools/cmake/component_validation.cmake:130 (__component_validation_check_include_dirs)
+  C:/esp/v6.1-beta1/esp-idf/CMakeLists.txt:356 (__component_validation_run_checks)
+
+
+CMake Warning at C:/esp/v6.1-beta1/esp-idf/tools/cmake/component_validation.cmake:106 (message):
+  Private include directory
+  'C:/esp/v6.1-beta1/esp-idf/components/wpa_supplicant/src' belongs to
+  component wpa_supplicant but is being used by component esp_wifi.  It is
+  recommended to define the component dependency for esp_wifi on the
+  component wpa_supplicant, i.e.  'idf_component_register(...  PRIV_REQUIRES
+  wpa_supplicant)' in the CMakeLists.txt of esp_wifi, and specify the
+  included directory as idf_component_register(...  PRIV_INCLUDE_DIRS <dir
+  relative to component>) in the CMakeLists.txt of component wpa_supplicant.
+Call Stack (most recent call first):
+  C:/esp/v6.1-beta1/esp-idf/tools/cmake/component_validation.cmake:130 (__component_validation_check_include_dirs)
+  C:/esp/v6.1-beta1/esp-idf/CMakeLists.txt:356 (__component_validation_run_checks)
+
+
+CMake Warning at C:/esp/v6.1-beta1/esp-idf/tools/cmake/component_validation.cmake:106 (message):
+  Private include directory
+  'C:/esp/v6.1-beta1/esp-idf/components/wpa_supplicant/esp_supplicant/src'
+  belongs to component wpa_supplicant but is being used by component
+  esp_wifi.  It is recommended to define the component dependency for
+  esp_wifi on the component wpa_supplicant, i.e.  'idf_component_register(...
+  PRIV_REQUIRES wpa_supplicant)' in the CMakeLists.txt of esp_wifi, and
+  specify the included directory as idf_component_register(...
+  PRIV_INCLUDE_DIRS <dir relative to component>) in the CMakeLists.txt of
+  component wpa_supplicant.
+Call Stack (most recent call first):
+  C:/esp/v6.1-beta1/esp-idf/tools/cmake/component_validation.cmake:130 (__component_validation_check_include_dirs)
+  C:/esp/v6.1-beta1/esp-idf/CMakeLists.txt:356 (__component_validation_run_checks)
+
+
+CMake Warning in C:/esp/v6.1-beta1/esp-idf/components/mbedtls/mbedtls/tf-psa-crypto/core/CMakeLists.txt:
+  The object file directory
+
+    C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/esp-idf/mbedtls/mbedtls/tf-psa-crypto/core/CMakeFiles/tfpsacrypto.dir/./
+
+  has 182 characters.  The maximum full path to an object file is 250
+  characters (see CMAKE_OBJECT_PATH_MAX).  Object file
+
+    44bcc1cd1fb582b6e7f87f4f98e14144/psa_crypto_driver_esp_rsa_ds_utilities.c.obj
+
+  cannot be safely placed under this directory.  The build may not work
+  correctly.
+
+

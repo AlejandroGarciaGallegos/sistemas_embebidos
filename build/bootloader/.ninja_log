@@ -1,0 +1,442 @@
+# ninja log v6
+704	1034	8118680152912413	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_cache_writeback_esp32s3.S.obj	e7c68fb88a10f555
+109	493	8118680146978782	esp-idf/log/CMakeFiles/__idf_log.dir/src/noos/util.c.obj	3418de76910ad52c
+123	740	8118680147116990	esp-idf/log/CMakeFiles/__idf_log.dir/src/log_format_text.c.obj	f6aad4d66778f59c
+18	52932	8128905214260333	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/esp-idf/esp_app_format/cmake_install.cmake	5af7b1ec231048b6
+117	603	8118680147041172	esp-idf/log/CMakeFiles/__idf_log.dir/src/util.c.obj	9cb9a831feb4ce10
+97	636	8118680146856475	esp-idf/log/CMakeFiles/__idf_log.dir/src/noos/log_lock.c.obj	aa450bc4da6ea953
+758	1617	8118680153459499	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32s3/esp_cpu_intr.c.obj	95e5786ed2df1497
+1282	1960	8118680158693927	esp-idf/esp_hal_systimer/CMakeFiles/__idf_esp_hal_systimer.dir/systimer_hal.c.obj	20b079cc26b729de
+92	758	8118680146795962	esp-idf/log/CMakeFiles/__idf_log.dir/src/log_timestamp_common.c.obj	490539e95e1a8d43
+156	649	8118680147446958	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_crc.c.obj	a8886192a0cd0aa4
+138	703	8118680147248050	esp-idf/log/CMakeFiles/__idf_log.dir/src/log.c.obj	d3fd3238563e0265
+131	747	8118680147197643	esp-idf/log/CMakeFiles/__idf_log.dir/src/log_print.c.obj	41308a63d025c6d7
+84	790	8118680146710270	esp-idf/log/CMakeFiles/__idf_log.dir/src/noos/log_timestamp.c.obj	a1c6b4a2bccd5d6
+145	783	8118680147328604	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_sys.c.obj	64970d7a6feedfd5
+911	1895	8118680155001016	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32s3/rtc_clk_init.c.obj	49e4baf7afe7cb2
+103	795	8118680146914332	esp-idf/log/CMakeFiles/__idf_log.dir/src/buffer/log_buffers.c.obj	8b7af99bf50e5789
+2147	3080	8118680167340244	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_clock_init.c.obj	98106c272f681595
+740	3759	8118680153278513	esp-idf/esp_common/CMakeFiles/__idf_esp_common.dir/src/esp_err_to_name.c.obj	7ea1aae460ff8dd
+163	853	8118680147501124	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_serial_output.c.obj	854e6ac71802d0de
+3587	3993	8118680181752381	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_console_loader.c.obj	a03f7d26b4ee9713
+7010	7651	8118680215984184	esp-idf/soc/CMakeFiles/__idf_soc.dir/dport_access_common.c.obj	855c02b84e685b3d
+2818	3888	8118680174057258	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/bootloader_flash/src/flash_qio_mode.c.obj	fa9cfae9dd598aed
+168	911	8118680147551516	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_spiflash.c.obj	d9263e8243a31235
+11515	11911	8118680261026772	esp-idf/esp_hal_gpio/libesp_hal_gpio.a	d44eb532a94d2364
+636	944	8118680152234134	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_longjmp.S.obj	423d157e1541869e
+18	52932	8128905215973106	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/esp-idf/esp_hw_support/cmake_install.cmake	5af7b1ec231048b6
+622	1047	8118680152095715	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_gpio.c.obj	efeffb472c44bb3e
+495	1003	8118680150839445	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_efuse.c.obj	a68553b3e3f449c0
+151	1126	8118680147386478	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_print.c.obj	66e60bfe0130c915
+3160	3893	8118680177478689	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_reset_common.c.obj	cbf24f4bba2e475c
+649	1282	8118680152374975	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_cache_esp32s2_esp32s3.c.obj	f769c71d1a932ad6
+791	1474	8118680153776672	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32s3/cpu_region_protect.c.obj	a78abeec102586e4
+8474	8619	8118680230544175	esp-idf/esp_hal_uart/libesp_hal_uart.a	cdba7a87f5d3fb91
+783	1592	8118680153718831	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/esp_memory_utils.c.obj	9061e3c8640c9a6
+748	1613	8118680153359113	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/cpu.c.obj	2fc74b80010727b9
+2534	3656	8118680171210826	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_random_esp32s3.c.obj	74ece7ecf0136005
+1004	2109	8118680155911078	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32s3/rtc_sleep.c.obj	4007444a6a7759eb
+796	1666	8118680153837105	esp-idf/log/liblog.a	ac01bc17f2af3975
+1047	1778	8118680156353362	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32s3/chip_info.c.obj	ca3091d5209d101d
+2352	3586	8118680169397870	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/flash_encrypt.c.obj	280e3fdc258e4a94
+1127	1806	8118680157144753	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/esp_err.c.obj	11c93318cd68ec7f
+2086	3225	8118680166726991	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_common.c.obj	4ed6353243df9f20
+1895	3086	8118680164829465	esp-idf/efuse/CMakeFiles/__idf_efuse.dir/src/esp_efuse_utility.c.obj	e7bdaa76204c9c5a
+1475	2085	8118680160622711	esp-idf/efuse/CMakeFiles/__idf_efuse.dir/esp32s3/esp_efuse_table.c.obj	29402fc54f970a8a
+1613	2264	8118680162003100	esp-idf/efuse/CMakeFiles/__idf_efuse.dir/esp32s3/esp_efuse_rtc_calib.c.obj	2cd027c1a9bb39e
+1034	2147	8118680156229577	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32s3/rtc_time.c.obj	22839ff50f28de48
+945	2244	8118680155323262	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32s3/rtc_init.c.obj	aae97ebda8e53227
+1593	2302	8118680161804158	esp-idf/efuse/CMakeFiles/__idf_efuse.dir/esp32s3/esp_efuse_fields.c.obj	9ecb46de42447e02
+3273	3848	8118680178608219	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_clock_loader.c.obj	69bc33b446af079b
+6612	7160	8118680212012272	esp-idf/esp_hal_gpio/CMakeFiles/__idf_esp_hal_gpio.dir/sdm_hal.c.obj	8b6cddb5a99f2940
+854	2351	8118680154411738	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32s3/rtc_clk.c.obj	94d126ac11c41c54
+18	52932	8128905217124346	build.ninja	5af7b1ec231048b6
+1618	2516	8118680162047172	esp-idf/efuse/CMakeFiles/__idf_efuse.dir/esp32s3/esp_efuse_utility.c.obj	9d0c30d76b287c89
+4992	5591	8118680195793971	esp-idf/esp_hal_timg/CMakeFiles/__idf_esp_hal_timg.dir/timer_hal.c.obj	902c4d7e32b77a35
+1806	2534	8118680163941593	esp-idf/efuse/CMakeFiles/__idf_efuse.dir/src/esp_efuse_fields.c.obj	1820a53b473fd8e5
+1666	2804	8118680162533811	esp-idf/esp_rom/libesp_rom.a	82539748d0f314bb
+18	52932	8128905214236953	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/esp-idf/esp_bootloader_format/cmake_install.cmake	5af7b1ec231048b6
+2516	3273	8118680171051423	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/secure_boot.c.obj	5567cd9e1aa294bc
+1778	2818	8118680163664634	esp-idf/efuse/CMakeFiles/__idf_efuse.dir/src/esp_efuse_api.c.obj	b470dc7c673810dd
+43	171	8128885228787592	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/CMakeFiles/bootloader_check_size	71edd6b21717b84
+2244	3051	8118680168325995	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_mem.c.obj	a78c6ff2066ffb6
+2804	4420	8118680173922313	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/bootloader_flash/src/bootloader_flash.c.obj	49360e19c4ba7ea
+2302	3117	8118680168901821	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_efuse.c.obj	631e4cd92b74b57b
+2265	3123	8118680168522420	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_random.c.obj	7eef8b3fe1ff07aa
+18	52932	8128905216141638	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/esp-idf/esp_hw_support/lowpower/cmake_install.cmake	5af7b1ec231048b6
+3759	4275	8118680183468334	esp-idf/esp_common/libesp_common.a	def3b22940395b6b
+1960	3160	8118680165479342	esp-idf/efuse/CMakeFiles/__idf_efuse.dir/src/efuse_controller/keys/with_key_purposes/esp_efuse_api_key.c.obj	74ec8a2bf0f0d1ed
+5117	6050	8118680197036744	esp-idf/spi_flash/CMakeFiles/__idf_spi_flash.dir/spi_flash_wrap.c.obj	2e0fcc2e1efe0d4b
+5653	6698	8118680202407792	esp-idf/esp_hal_dma/CMakeFiles/__idf_esp_hal_dma.dir/gdma_hal_ahb_v1.c.obj	b75ea110ee0f179f
+2110	3406	8118680166983737	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_common_loader.c.obj	8c057e73fa0bcd16
+3087	3783	8118680176744950	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/flash_partitions.c.obj	a27f7ea8ceecf7bd
+3123	3837	8118680177102600	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_sha.c.obj	69fe1dc34d5b5270
+3052	4260	8118680176405735	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/bootloader_flash/src/bootloader_flash_config_esp32s3.c.obj	425bd33f0bd63b51
+7064	7635	8118680216521101	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32s3/interrupts.c.obj	e1f31e77cddd00b7
+3848	4286	8118680184370130	esp-idf/esp_security/CMakeFiles/__idf_esp_security.dir/src/esp_crypto_lock.c.obj	3e6fb0f1e8371932
+3406	4271	8118680179932386	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_console.c.obj	1bec73e99386d035
+5249	6168	8118680198373416	esp-idf/esp_hal_clock/CMakeFiles/__idf_esp_hal_clock.dir/esp32s3/clk_tree_hal.c.obj	b22000c1283c52a6
+3657	4280	8118680182440852	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/esp32s3/bootloader_soc.c.obj	7da86c1c7ce4c9f9
+4286	5032	8118680188738001	esp-idf/esp_hal_ana_conv/CMakeFiles/__idf_esp_hal_ana_conv.dir/temperature_sensor_hal.c.obj	fffaccfedb057163
+3994	4427	8118680185814930	esp-idf/esp_hal_ana_conv/CMakeFiles/__idf_esp_hal_ana_conv.dir/esp32s3/adc_periph.c.obj	9dda68cc5e42fd04
+3888	4553	8118680184766851	esp-idf/esp_security/CMakeFiles/__idf_esp_security.dir/src/esp_crypto_periph_clk.c.obj	1d9d6713c0f2d3bc
+3893	4567	8118680184807150	esp-idf/esp_hal_security/CMakeFiles/__idf_esp_hal_security.dir/mpu_hal.c.obj	5e2d0f8d58149ccc
+3838	4603	8118680184259181	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_panic.c.obj	faf9f3515aa82d6a
+3226	4655	8118680178131143	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_init.c.obj	5c8ba52e0aa67721
+3080	4795	8118680176685057	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_utility.c.obj	f9e39e21e284c3c1
+3117	4836	8118680177042153	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/esp_image_format.c.obj	1663ec69755ed772
+4420	4992	8118680190085484	esp-idf/esp_hal_ana_conv/CMakeFiles/__idf_esp_hal_ana_conv.dir/esp32s3/temperature_sensor_periph.c.obj	7697ced5e62780b1
+4275	5000	8118680188626117	esp-idf/esp_hw_support/libesp_hw_support.a	ea74c9681baf3c82
+4655	5018	8118680192439012	esp-idf/esp_hal_wdt/CMakeFiles/__idf_esp_hal_wdt.dir/esp32s3/mwdt_periph.c.obj	7e664390728039d3
+4567	5066	8118680191547040	esp-idf/esp_hal_uart/CMakeFiles/__idf_esp_hal_uart.dir/esp32s3/uart_periph.c.obj	e12e1333d69ef2ae
+4603	5116	8118680191922119	esp-idf/esp_hal_uart/CMakeFiles/__idf_esp_hal_uart.dir/uhci_hal.c.obj	68dd67a1378a9a08
+3784	5132	8118680183705303	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/esp32s3/bootloader_esp32s3.c.obj	5b881fd29f9a2a81
+4271	5248	8118680188588397	esp-idf/esp_hal_ana_conv/CMakeFiles/__idf_esp_hal_ana_conv.dir/adc_oneshot_hal.c.obj	8ed2a0f65cb9fa63
+6992	7677	8118680215805415	esp-idf/soc/CMakeFiles/__idf_soc.dir/lldesc.c.obj	85adb10d0c16b65d
+4260	5254	8118680188487644	esp-idf/esp_hal_ana_conv/CMakeFiles/__idf_esp_hal_ana_conv.dir/adc_hal_common.c.obj	915459c898d522ac
+4553	5309	8118680191408528	esp-idf/esp_hal_uart/CMakeFiles/__idf_esp_hal_uart.dir/uart_hal_iram.c.obj	41b8ff5d2c9ccf4a
+7576	7826	8118680223945249	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/ld/bootloader.memory.ld	57dea2788c24cf17
+4795	5339	8118680193826249	esp-idf/esp_hal_wdt/CMakeFiles/__idf_esp_hal_wdt.dir/rom_patch.c.obj	a375859f87ab9483
+4427	5379	8118680190156172	esp-idf/esp_hal_uart/CMakeFiles/__idf_esp_hal_uart.dir/uart_hal.c.obj	4b6ace2e131b8255
+4281	5431	8118680188687357	esp-idf/esp_hal_ana_conv/CMakeFiles/__idf_esp_hal_ana_conv.dir/adc_hal.c.obj	823e47272b56848e
+6169	6612	8118680207556722	esp-idf/esp_hal_usb/CMakeFiles/__idf_esp_hal_usb.dir/esp32s3/usb_dwc_periph.c.obj	f67c5b6b336d3f7e
+4836	5569	8118680194243927	esp-idf/esp_hal_wdt/CMakeFiles/__idf_esp_hal_wdt.dir/xt_wdt_hal.c.obj	e45d766d7afee324
+5018	5629	8118680196052043	esp-idf/esp_hal_timg/CMakeFiles/__idf_esp_hal_timg.dir/esp32s3/timer_periph.c.obj	bafdc8983d865986
+5000	5646	8118680195871947	esp-idf/esp_system/libesp_system.a	fd4ea2f09d32f821
+5067	5652	8118680196546691	esp-idf/esp_bootloader_format/CMakeFiles/__idf_esp_bootloader_format.dir/esp_bootloader_desc.c.obj	27478d1e6b8bd7b
+5254	5895	8118680198411226	esp-idf/esp_hal_gpspi/CMakeFiles/__idf_esp_hal_gpspi.dir/esp32s3/spi_periph.c.obj	52e656e7f14d71d9
+5629	6200	8118680202173561	esp-idf/esp_hal_dma/CMakeFiles/__idf_esp_hal_dma.dir/esp32s3/gdma_periph.c.obj	15c2d1f643e59fa0
+5132	5900	8118680197191572	esp-idf/esp_hal_mspi/CMakeFiles/__idf_esp_hal_mspi.dir/esp32s3/mspi_periph.c.obj	3e22470556280cd6
+5309	6232	8118680198966912	esp-idf/esp_hal_gpspi/CMakeFiles/__idf_esp_hal_gpspi.dir/spi_hal.c.obj	173f817fc110b913
+5900	6607	8118680204878309	esp-idf/esp_hal_pmu/CMakeFiles/__idf_esp_hal_pmu.dir/brownout_hal.c.obj	2b9e167f5b98f53c
+5379	6238	8118680199663907	esp-idf/esp_hal_gpspi/CMakeFiles/__idf_esp_hal_gpspi.dir/spi_slave_hal.c.obj	e5c74f1aeb280059
+5592	6287	8118680201792733	esp-idf/esp_hal_dma/CMakeFiles/__idf_esp_hal_dma.dir/gdma_hal_top.c.obj	fda183d8339ed1c4
+5431	6376	8118680200193314	esp-idf/esp_hal_gpspi/CMakeFiles/__idf_esp_hal_gpspi.dir/spi_slave_hal_iram.c.obj	cc74484e42640dd8
+5646	6418	8118680202349877	esp-idf/esp_hal_systimer/libesp_hal_systimer.a	dece1b7d5471c4df
+6809	7616	8118680213981612	esp-idf/hal/CMakeFiles/__idf_hal.dir/hal_utils.c.obj	3d429b872b5a1d4
+5895	6809	8118680204817749	esp-idf/esp_hal_pmu/CMakeFiles/__idf_esp_hal_pmu.dir/esp32s3/rtc_cntl_hal.c.obj	2c3177610c7fecd
+5569	6883	8118680201571879	esp-idf/esp_hal_gpspi/CMakeFiles/__idf_esp_hal_gpspi.dir/spi_slave_hd_hal.c.obj	776d17e94f6cd377
+6376	6917	8118680209639922	esp-idf/esp_hal_gpio/CMakeFiles/__idf_esp_hal_gpio.dir/esp32s3/rtc_io_periph.c.obj	ad1b41bfd60dd95b
+6233	6925	8118680208197381	esp-idf/esp_hal_usb/CMakeFiles/__idf_esp_hal_usb.dir/usb_serial_jtag_hal.c.obj	c48322eed5cf2bb9
+6238	6981	8118680208257706	esp-idf/esp_hal_gpio/CMakeFiles/__idf_esp_hal_gpio.dir/gpio_hal.c.obj	dc033cda0209f4ca
+6287	6992	8118680208751738	esp-idf/esp_hal_gpio/CMakeFiles/__idf_esp_hal_gpio.dir/rtc_io_hal.c.obj	6773eeacf7ce5ff9
+6200	7010	8118680207874139	esp-idf/esp_hal_usb/CMakeFiles/__idf_esp_hal_usb.dir/usb_wrap_hal.c.obj	a23abb5b9810ca54
+6608	7064	8118680211951796	esp-idf/esp_hal_gpio/CMakeFiles/__idf_esp_hal_gpio.dir/esp32s3/dedic_gpio_periph.c.obj	57ff20ccbc4c8670
+13027	13299	8118680276160219	esp-idf/main/libmain.a	df10fcae05f14623
+6698	7204	8118680212865719	esp-idf/esp_hal_gpio/CMakeFiles/__idf_esp_hal_gpio.dir/esp32s3/sdm_periph.c.obj	a4e679cfcd17242b
+8866	8989	8118680234522701	esp-idf/micro-ecc/libmicro-ecc.a	5ce1563f3674030a
+6050	7223	8118680206389166	esp-idf/esp_hal_usb/CMakeFiles/__idf_esp_hal_usb.dir/usb_dwc_hal.c.obj	713950325754a0cd
+6418	7259	8118680210053996	esp-idf/efuse/libefuse.a	667c0172a9e86e08
+5032	7576	8118680196189110	esp-idf/micro-ecc/CMakeFiles/__idf_micro-ecc.dir/uECC_verify_antifault.c.obj	b7ef66f772b2a2d8
+6917	7588	8118680215060367	esp-idf/hal/CMakeFiles/__idf_hal.dir/esp32s3/efuse_hal.c.obj	e4d16817b07dc486
+18	52932	8128905214800557	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/esp-idf/esp_hal_wdt/cmake_install.cmake	5af7b1ec231048b6
+6884	7640	8118680214720702	esp-idf/hal/CMakeFiles/__idf_hal.dir/efuse_hal.c.obj	d30b201e0f1bf27a
+7223	7654	8118680218104361	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32s3/power_supply_periph.c.obj	9236e877b71c44fa
+6925	7700	8118680215141044	esp-idf/hal/CMakeFiles/__idf_hal.dir/mmu_hal.c.obj	b29c799b2650d35a
+7161	7713	8118680217491209	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32s3/gpio_periph.c.obj	39cdf3e86681e720
+5340	7740	8118680199282506	esp-idf/esp_hal_gpspi/CMakeFiles/__idf_esp_hal_gpspi.dir/spi_hal_iram.c.obj	8d3af35e4be21686
+7204	7748	8118680217917440	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32s3/mpi_periph.c.obj	9058f32505905c92
+7640	7774	8118680223441926	project_elf_src_esp32s3.c	56049a0a8c20bd6a
+7640	7774	8118680223441926	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/project_elf_src_esp32s3.c	56049a0a8c20bd6a
+7616	7889	8118680222039795	esp-idf/xtensa/CMakeFiles/__idf_xtensa.dir/eri.c.obj	9073338a6cb0834d
+6981	7796	8118680215694551	esp-idf/hal/CMakeFiles/__idf_hal.dir/cache_hal.c.obj	c932998bb216cdf5
+18	52932	8128905216071651	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/esp-idf/esp_hw_support/port/esp32s3/cmake_install.cmake	5af7b1ec231048b6
+7576	7826	8118680223945249	ld/bootloader.memory.ld	57dea2788c24cf17
+7259	7968	8118680218462534	esp-idf/bootloader_support/libbootloader_support.a	26d92ddc4e9bec8f
+7588	7837	8118680224066809	ld/bootloader.sections.ld	818156aeb6588bfe
+13299	14469	8118680278853833	bootloader.elf	1f2592293231ac4
+7588	7837	8118680224066809	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/ld/bootloader.sections.ld	818156aeb6588bfe
+7635	7958	8118680222237265	esp-idf/xtensa/CMakeFiles/__idf_xtensa.dir/xt_trax.c.obj	7fdc57bb8db92a0f
+7840	7980	8118680224234987	CMakeFiles/bootloader.elf.dir/project_elf_src_esp32s3.c.obj	5ca93dc42cd4c8c7
+7837	8140	8118680224234987	esp-idf/main/CMakeFiles/__idf_main.dir/bootloader_start.c.obj	59468c2e78f5b4f6
+7968	8175	8118680225568354	esp-idf/esp_security/libesp_security.a	c816f1438e3ed50b
+8175	8323	8118680227599430	esp-idf/esp_hal_security/libesp_hal_security.a	8fcba43d664695fd
+8323	8473	8118680229053668	esp-idf/esp_hal_ana_conv/libesp_hal_ana_conv.a	72f9d9ce74f293e4
+8619	8745	8118680232029813	esp-idf/esp_hal_wdt/libesp_hal_wdt.a	4b80e1c97d0cbace
+8745	8865	8118680233311902	esp-idf/esp_hal_timg/libesp_hal_timg.a	88bc594cfc038710
+8989	9135	8118680235780433	esp-idf/esp_bootloader_format/libesp_bootloader_format.a	c75565bfe63d81d4
+9135	9275	8118680237200966	esp-idf/spi_flash/libspi_flash.a	33d85a6ad23c359c
+18	52932	8128905212741461	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/cmake_install.cmake	5af7b1ec231048b6
+9275	9634	8118680238638528	esp-idf/esp_hal_mspi/libesp_hal_mspi.a	634ae1841d2c8974
+9634	10013	8118680242227685	esp-idf/esp_hal_clock/libesp_hal_clock.a	f21e1792185d41a8
+10013	10466	8118680246023233	esp-idf/esp_hal_gpspi/libesp_hal_gpspi.a	85dc3ddcdbaa22c2
+10466	10785	8118680250543771	esp-idf/esp_hal_dma/libesp_hal_dma.a	d9e26422b7e9c80a
+10785	11098	8118680253697717	esp-idf/esp_hal_pmu/libesp_hal_pmu.a	5bb2ec806bbc8320
+11098	11514	8118680256811868	esp-idf/esp_hal_usb/libesp_hal_usb.a	715383c4f63a5fc0
+18	52932	8128905216677233	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/esp-idf/bootloader/cmake_install.cmake	5af7b1ec231048b6
+11911	12246	8118680264971126	esp-idf/hal/libhal.a	1018f727422fa3c3
+12246	12740	8118680268328978	esp-idf/soc/libsoc.a	98387c720ebcb49c
+12740	13027	8118680273266827	esp-idf/xtensa/libxtensa.a	a8ef2ede8c30000a
+14469	15034	8118680296108478	.bin_timestamp	5db5f9f7a9554137
+14469	15034	8118680296108478	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/.bin_timestamp	5db5f9f7a9554137
+43	171	8128885228787592	CMakeFiles/bootloader_check_size	71edd6b21717b84
+18	52932	8128905212812624	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/esp-idf/cmake_install.cmake	5af7b1ec231048b6
+18	52932	8128905212946543	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/esp-idf/xtensa/cmake_install.cmake	5af7b1ec231048b6
+18	52932	8128905212966658	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/esp-idf/esp_libc/cmake_install.cmake	5af7b1ec231048b6
+18	52932	8128905213096170	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/esp-idf/soc/cmake_install.cmake	5af7b1ec231048b6
+18	52932	8128905213704121	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/esp-idf/esp_hal_dma/cmake_install.cmake	5af7b1ec231048b6
+18	52932	8128905213230591	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/esp-idf/hal/cmake_install.cmake	5af7b1ec231048b6
+18	52932	8128905213292804	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/esp-idf/esp_hal_gpio/cmake_install.cmake	5af7b1ec231048b6
+18	52932	8128905213407742	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/esp-idf/esp_hal_usb/cmake_install.cmake	5af7b1ec231048b6
+18	52932	8128905213548147	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/esp-idf/esp_hal_pmu/cmake_install.cmake	5af7b1ec231048b6
+18	52932	8128905213584127	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/esp-idf/esp_hal_regi2c/cmake_install.cmake	5af7b1ec231048b6
+18	52932	8128905213740773	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/esp-idf/esp_hal_gpspi/cmake_install.cmake	5af7b1ec231048b6
+18	52932	8128905213910776	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/esp-idf/esp_hal_clock/cmake_install.cmake	5af7b1ec231048b6
+18	52932	8128905214030292	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/esp-idf/esp_hal_mspi/cmake_install.cmake	5af7b1ec231048b6
+18	52932	8128905214030292	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/esp-idf/esp_blockdev/cmake_install.cmake	5af7b1ec231048b6
+18	52932	8128905214145198	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/esp-idf/spi_flash/cmake_install.cmake	5af7b1ec231048b6
+18	52932	8128905214260333	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/esp-idf/partition_table/cmake_install.cmake	5af7b1ec231048b6
+18	52932	8128905214454444	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/esp-idf/esptool_py/cmake_install.cmake	5af7b1ec231048b6
+18	52932	8128905214605510	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/esp-idf/micro-ecc/cmake_install.cmake	5af7b1ec231048b6
+18	52932	8128905214715488	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/esp-idf/esp_hal_timg/cmake_install.cmake	5af7b1ec231048b6
+18	52932	8128905214932561	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/esp-idf/esp_hal_uart/cmake_install.cmake	5af7b1ec231048b6
+18	52932	8128905214959720	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/esp-idf/esp_hal_ana_conv/cmake_install.cmake	5af7b1ec231048b6
+18	52932	8128905215079804	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/esp-idf/esp_hal_rtc_timer/cmake_install.cmake	5af7b1ec231048b6
+18	52932	8128905215142856	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/esp-idf/esp_hal_security/cmake_install.cmake	5af7b1ec231048b6
+18	52932	8128905215875174	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/esp-idf/esp_system/cmake_install.cmake	5af7b1ec231048b6
+18	52932	8128905215278389	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/esp-idf/esp_security/cmake_install.cmake	5af7b1ec231048b6
+18	52932	8128905215403308	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/esp-idf/bootloader_support/cmake_install.cmake	5af7b1ec231048b6
+18	52932	8128905215646323	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/esp-idf/efuse/cmake_install.cmake	5af7b1ec231048b6
+18	52932	8128905215735193	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/esp-idf/esp_hal_systimer/cmake_install.cmake	5af7b1ec231048b6
+18	52932	8128905216101633	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/esp-idf/esp_hw_support/mspi/mspi_timing_tuning/port/esp32s3/cmake_install.cmake	5af7b1ec231048b6
+18	52932	8128905216181629	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/esp-idf/esp_hw_support/modem/cmake_install.cmake	5af7b1ec231048b6
+18	52932	8128905216232356	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/esp-idf/esp_common/cmake_install.cmake	5af7b1ec231048b6
+18	52932	8128905216486512	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/esp-idf/esp_rom/cmake_install.cmake	5af7b1ec231048b6
+18	52932	8128905216740124	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/esp-idf/freertos/cmake_install.cmake	5af7b1ec231048b6
+18	52932	8128905216647227	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/esp-idf/log/cmake_install.cmake	5af7b1ec231048b6
+18	52932	8128905216707228	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/esp-idf/esp_stdio/cmake_install.cmake	5af7b1ec231048b6
+18	52932	8128905216852641	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/esp-idf/main/cmake_install.cmake	5af7b1ec231048b6
+202	109539	8128905217124346	build.ninja	5af7b1ec231048b6
+202	109539	8128905217124346	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/cmake_install.cmake	5af7b1ec231048b6
+202	109539	8128905217124346	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/esp-idf/cmake_install.cmake	5af7b1ec231048b6
+202	109539	8128905217124346	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/esp-idf/xtensa/cmake_install.cmake	5af7b1ec231048b6
+202	109539	8128905217124346	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/esp-idf/esp_libc/cmake_install.cmake	5af7b1ec231048b6
+202	109539	8128905217124346	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/esp-idf/soc/cmake_install.cmake	5af7b1ec231048b6
+202	109539	8128905217124346	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/esp-idf/hal/cmake_install.cmake	5af7b1ec231048b6
+202	109539	8128905217124346	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/esp-idf/esp_hal_gpio/cmake_install.cmake	5af7b1ec231048b6
+202	109539	8128905217124346	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/esp-idf/esp_hal_usb/cmake_install.cmake	5af7b1ec231048b6
+202	109539	8128905217124346	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/esp-idf/esp_hal_pmu/cmake_install.cmake	5af7b1ec231048b6
+202	109539	8128905217124346	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/esp-idf/esp_hal_regi2c/cmake_install.cmake	5af7b1ec231048b6
+202	109539	8128905217124346	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/esp-idf/esp_hal_dma/cmake_install.cmake	5af7b1ec231048b6
+202	109539	8128905217124346	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/esp-idf/esp_hal_gpspi/cmake_install.cmake	5af7b1ec231048b6
+202	109539	8128905217124346	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/esp-idf/esp_hal_clock/cmake_install.cmake	5af7b1ec231048b6
+202	109539	8128905217124346	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/esp-idf/esp_hal_mspi/cmake_install.cmake	5af7b1ec231048b6
+202	109539	8128905217124346	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/esp-idf/esp_blockdev/cmake_install.cmake	5af7b1ec231048b6
+202	109539	8128905217124346	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/esp-idf/spi_flash/cmake_install.cmake	5af7b1ec231048b6
+202	109539	8128905217124346	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/esp-idf/esp_bootloader_format/cmake_install.cmake	5af7b1ec231048b6
+202	109539	8128905217124346	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/esp-idf/esp_app_format/cmake_install.cmake	5af7b1ec231048b6
+202	109539	8128905217124346	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/esp-idf/partition_table/cmake_install.cmake	5af7b1ec231048b6
+202	109539	8128905217124346	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/esp-idf/esptool_py/cmake_install.cmake	5af7b1ec231048b6
+202	109539	8128905217124346	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/esp-idf/micro-ecc/cmake_install.cmake	5af7b1ec231048b6
+202	109539	8128905217124346	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/esp-idf/esp_hal_timg/cmake_install.cmake	5af7b1ec231048b6
+202	109539	8128905217124346	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/esp-idf/esp_hal_wdt/cmake_install.cmake	5af7b1ec231048b6
+202	109539	8128905217124346	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/esp-idf/esp_hal_uart/cmake_install.cmake	5af7b1ec231048b6
+202	109539	8128905217124346	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/esp-idf/esp_hal_ana_conv/cmake_install.cmake	5af7b1ec231048b6
+202	109539	8128905217124346	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/esp-idf/esp_hal_rtc_timer/cmake_install.cmake	5af7b1ec231048b6
+202	109539	8128905217124346	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/esp-idf/esp_hal_security/cmake_install.cmake	5af7b1ec231048b6
+202	109539	8128905217124346	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/esp-idf/esp_security/cmake_install.cmake	5af7b1ec231048b6
+202	109539	8128905217124346	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/esp-idf/bootloader_support/cmake_install.cmake	5af7b1ec231048b6
+202	109539	8128905217124346	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/esp-idf/efuse/cmake_install.cmake	5af7b1ec231048b6
+202	109539	8128905217124346	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/esp-idf/esp_hal_systimer/cmake_install.cmake	5af7b1ec231048b6
+202	109539	8128905217124346	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/esp-idf/esp_system/cmake_install.cmake	5af7b1ec231048b6
+202	109539	8128905217124346	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/esp-idf/esp_hw_support/cmake_install.cmake	5af7b1ec231048b6
+202	109539	8128905217124346	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/esp-idf/esp_hw_support/port/esp32s3/cmake_install.cmake	5af7b1ec231048b6
+202	109539	8128905217124346	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/esp-idf/esp_hw_support/mspi/mspi_timing_tuning/port/esp32s3/cmake_install.cmake	5af7b1ec231048b6
+202	109539	8128905217124346	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/esp-idf/esp_hw_support/lowpower/cmake_install.cmake	5af7b1ec231048b6
+202	109539	8128905217124346	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/esp-idf/esp_hw_support/modem/cmake_install.cmake	5af7b1ec231048b6
+202	109539	8128905217124346	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/esp-idf/esp_common/cmake_install.cmake	5af7b1ec231048b6
+202	109539	8128905217124346	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/esp-idf/esp_rom/cmake_install.cmake	5af7b1ec231048b6
+202	109539	8128905217124346	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/esp-idf/log/cmake_install.cmake	5af7b1ec231048b6
+202	109539	8128905217124346	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/esp-idf/bootloader/cmake_install.cmake	5af7b1ec231048b6
+202	109539	8128905217124346	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/esp-idf/esp_stdio/cmake_install.cmake	5af7b1ec231048b6
+202	109539	8128905217124346	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/esp-idf/freertos/cmake_install.cmake	5af7b1ec231048b6
+202	109539	8128905217124346	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/esp-idf/main/cmake_install.cmake	5af7b1ec231048b6
+178	880	8128905220358496	esp-idf/log/CMakeFiles/__idf_log.dir/src/util.c.obj	9cb9a831feb4ce10
+121	989	8128905219719678	esp-idf/log/CMakeFiles/__idf_log.dir/src/log_timestamp_common.c.obj	490539e95e1a8d43
+331	1142	8128905221885284	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_crc.c.obj	a8886192a0cd0aa4
+100	1165	8128905219577475	esp-idf/log/CMakeFiles/__idf_log.dir/src/noos/log_timestamp.c.obj	a1c6b4a2bccd5d6
+139	1241	8128905219964235	esp-idf/log/CMakeFiles/__idf_log.dir/src/noos/log_lock.c.obj	aa450bc4da6ea953
+288	1339	8128905221446485	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_sys.c.obj	64970d7a6feedfd5
+158	1359	8128905220147861	esp-idf/log/CMakeFiles/__idf_log.dir/src/buffer/log_buffers.c.obj	8b7af99bf50e5789
+203	1389	8128905220611240	esp-idf/log/CMakeFiles/__idf_log.dir/src/log_format_text.c.obj	f6aad4d66778f59c
+398	1419	8128905222560300	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_spiflash.c.obj	d9263e8243a31235
+378	1451	8128905222357435	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_serial_output.c.obj	854e6ac71802d0de
+231	1517	8128905220886281	esp-idf/log/CMakeFiles/__idf_log.dir/src/log_print.c.obj	41308a63d025c6d7
+256	1545	8128905221138494	esp-idf/log/CMakeFiles/__idf_log.dir/src/log.c.obj	d3fd3238563e0265
+418	1592	8128905222754632	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_efuse.c.obj	a68553b3e3f449c0
+990	1767	8128905228468623	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_longjmp.S.obj	423d157e1541869e
+881	1791	8128905227370368	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_gpio.c.obj	efeffb472c44bb3e
+312	1885	8128905221701726	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_print.c.obj	66e60bfe0130c915
+1165	1952	8128905230227465	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_cache_writeback_esp32s3.S.obj	e7c68fb88a10f555
+1142	2074	8128905229984914	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_cache_esp32s2_esp32s3.c.obj	f769c71d1a932ad6
+1241	2364	8128905230980844	esp-idf/esp_common/CMakeFiles/__idf_esp_common.dir/src/esp_err_to_name.c.obj	7ea1aae460ff8dd
+1389	2387	8128905232457333	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/esp_memory_utils.c.obj	9061e3c8640c9a6
+1419	2410	8128905232770299	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32s3/cpu_region_protect.c.obj	a78abeec102586e4
+1359	2516	8128905232170440	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32s3/esp_cpu_intr.c.obj	95e5786ed2df1497
+1339	2614	8128905231963878	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/cpu.c.obj	2fc74b80010727b9
+1520	2892	8128905233767391	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32s3/rtc_clk_init.c.obj	49e4baf7afe7cb2
+1952	2956	8128905238101902	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/esp_err.c.obj	11c93318cd68ec7f
+1885	2996	8128905237432653	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32s3/chip_info.c.obj	ca3091d5209d101d
+2074	3250	8128905239310265	esp-idf/esp_hal_systimer/CMakeFiles/__idf_esp_hal_systimer.dir/systimer_hal.c.obj	20b079cc26b729de
+1592	3292	8128905234502144	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32s3/rtc_init.c.obj	aae97ebda8e53227
+1791	3434	8128905236485703	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32s3/rtc_time.c.obj	22839ff50f28de48
+1452	3481	8128905233096920	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32s3/rtc_clk.c.obj	94d126ac11c41c54
+2388	3593	8128905242449677	esp-idf/efuse/CMakeFiles/__idf_efuse.dir/esp32s3/esp_efuse_fields.c.obj	9ecb46de42447e02
+1767	3616	8128905236240733	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32s3/rtc_sleep.c.obj	4007444a6a7759eb
+2364	3695	8128905242205746	esp-idf/efuse/CMakeFiles/__idf_efuse.dir/esp32s3/esp_efuse_table.c.obj	29402fc54f970a8a
+2516	3821	8128905243719521	esp-idf/efuse/CMakeFiles/__idf_efuse.dir/esp32s3/esp_efuse_utility.c.obj	9d0c30d76b287c89
+2411	3856	8128905242683461	esp-idf/efuse/CMakeFiles/__idf_efuse.dir/esp32s3/esp_efuse_rtc_calib.c.obj	2cd027c1a9bb39e
+2614	4322	8128905244717014	esp-idf/efuse/CMakeFiles/__idf_efuse.dir/src/esp_efuse_api.c.obj	b470dc7c673810dd
+2893	4350	8128905247506769	esp-idf/efuse/CMakeFiles/__idf_efuse.dir/src/esp_efuse_fields.c.obj	1820a53b473fd8e5
+3481	4651	8128905253379539	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_mem.c.obj	a78c6ff2066ffb6
+1545	4768	8128905234024112	esp-idf/log/liblog.a	ac01bc17f2af3975
+2956	4795	8128905248135093	esp-idf/efuse/CMakeFiles/__idf_efuse.dir/src/esp_efuse_utility.c.obj	e7bdaa76204c9c5a
+3435	4894	8128905252920682	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_clock_init.c.obj	98106c272f681595
+2996	4914	8128905248533969	esp-idf/efuse/CMakeFiles/__idf_efuse.dir/src/efuse_controller/keys/with_key_purposes/esp_efuse_api_key.c.obj	74ec8a2bf0f0d1ed
+3593	4966	8128905254501909	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_random.c.obj	7eef8b3fe1ff07aa
+3250	4988	8128905251072024	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_common.c.obj	4ed6353243df9f20
+3293	5091	8128905251506245	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_common_loader.c.obj	8c057e73fa0bcd16
+3822	5115	8128905256789574	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/secure_boot.c.obj	5567cd9e1aa294bc
+3616	5140	8128905254738398	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_efuse.c.obj	631e4cd92b74b57b
+3695	5164	8128905255525054	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/flash_encrypt.c.obj	280e3fdc258e4a94
+3856	5452	8128905257122909	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_random_esp32s3.c.obj	74ece7ecf0136005
+4351	6047	8128905262081969	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/bootloader_flash/src/flash_qio_mode.c.obj	fa9cfae9dd598aed
+5115	6196	8128905269728662	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_clock_loader.c.obj	69bc33b446af079b
+4894	6257	8128905267508894	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/flash_partitions.c.obj	a27f7ea8ceecf7bd
+4966	6339	8128905268233774	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_sha.c.obj	69fe1dc34d5b5270
+4989	6479	8128905268451130	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_reset_common.c.obj	cbf24f4bba2e475c
+5165	6500	8128905270504868	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_console_loader.c.obj	a03f7d26b4ee9713
+4651	6603	8128905265090581	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/bootloader_flash/src/bootloader_flash_config_esp32s3.c.obj	425bd33f0bd63b51
+5452	6625	8128905273094091	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/esp32s3/bootloader_soc.c.obj	7da86c1c7ce4c9f9
+4322	6723	8128905261795833	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/bootloader_flash/src/bootloader_flash.c.obj	49360e19c4ba7ea
+5140	6751	8128905269973183	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_console.c.obj	1bec73e99386d035
+4768	7019	8128905266254283	esp-idf/esp_rom/libesp_rom.a	82539748d0f314bb
+6257	7057	8128905281150691	esp-idf/esp_security/CMakeFiles/__idf_esp_security.dir/src/esp_crypto_lock.c.obj	3e6fb0f1e8371932
+5091	7391	8128905269483308	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_init.c.obj	5c8ba52e0aa67721
+4796	7495	8128905266529635	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_utility.c.obj	f9e39e21e284c3c1
+6501	7543	8128905283580394	esp-idf/esp_hal_ana_conv/CMakeFiles/__idf_esp_hal_ana_conv.dir/esp32s3/adc_periph.c.obj	9dda68cc5e42fd04
+4915	7587	8128905267714698	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/esp_image_format.c.obj	1663ec69755ed772
+6196	7606	8128905280543497	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_panic.c.obj	faf9f3515aa82d6a
+6479	7653	8128905283360357	esp-idf/esp_hal_security/CMakeFiles/__idf_esp_hal_security.dir/mpu_hal.c.obj	5e2d0f8d58149ccc
+6339	7923	8128905281968484	esp-idf/esp_security/CMakeFiles/__idf_esp_security.dir/src/esp_crypto_periph_clk.c.obj	1d9d6713c0f2d3bc
+7057	8009	8128905289148370	esp-idf/esp_hal_ana_conv/CMakeFiles/__idf_esp_hal_ana_conv.dir/esp32s3/temperature_sensor_periph.c.obj	7697ced5e62780b1
+6751	8107	8128905286089597	esp-idf/esp_hal_ana_conv/CMakeFiles/__idf_esp_hal_ana_conv.dir/temperature_sensor_hal.c.obj	fffaccfedb057163
+6625	8302	8128905284815563	esp-idf/esp_hal_ana_conv/CMakeFiles/__idf_esp_hal_ana_conv.dir/adc_oneshot_hal.c.obj	8ed2a0f65cb9fa63
+6047	8331	8128905279052884	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/esp32s3/bootloader_esp32s3.c.obj	5b881fd29f9a2a81
+6723	8426	8128905285792360	esp-idf/esp_hal_ana_conv/CMakeFiles/__idf_esp_hal_ana_conv.dir/adc_hal.c.obj	823e47272b56848e
+6603	8445	8128905284611800	esp-idf/esp_hal_ana_conv/CMakeFiles/__idf_esp_hal_ana_conv.dir/adc_hal_common.c.obj	915459c898d522ac
+7587	8516	8128905294435321	esp-idf/esp_hal_uart/CMakeFiles/__idf_esp_hal_uart.dir/uhci_hal.c.obj	68dd67a1378a9a08
+7606	8596	8128905294635337	esp-idf/esp_hal_wdt/CMakeFiles/__idf_esp_hal_wdt.dir/rom_patch.c.obj	a375859f87ab9483
+7496	8665	8128905293528549	esp-idf/esp_hal_uart/CMakeFiles/__idf_esp_hal_uart.dir/uart_hal_iram.c.obj	41b8ff5d2c9ccf4a
+7653	8694	8128905295105173	esp-idf/esp_hal_wdt/CMakeFiles/__idf_esp_hal_wdt.dir/xt_wdt_hal.c.obj	e45d766d7afee324
+7543	8734	8128905294015961	esp-idf/esp_hal_uart/CMakeFiles/__idf_esp_hal_uart.dir/esp32s3/uart_periph.c.obj	e12e1333d69ef2ae
+7391	8887	8128905292480782	esp-idf/esp_hal_uart/CMakeFiles/__idf_esp_hal_uart.dir/uart_hal.c.obj	4b6ace2e131b8255
+7923	8909	8128905297794419	esp-idf/esp_hal_timg/CMakeFiles/__idf_esp_hal_timg.dir/timer_hal.c.obj	902c4d7e32b77a35
+7019	8961	8128905288765491	esp-idf/esp_common/libesp_common.a	def3b22940395b6b
+8010	9099	8128905298676654	esp-idf/esp_hal_timg/CMakeFiles/__idf_esp_hal_timg.dir/esp32s3/timer_periph.c.obj	bafdc8983d865986
+8302	9303	8128905301596762	esp-idf/esp_bootloader_format/CMakeFiles/__idf_esp_bootloader_format.dir/esp_bootloader_desc.c.obj	27478d1e6b8bd7b
+8426	9504	8128905302831042	esp-idf/esp_hal_mspi/CMakeFiles/__idf_esp_hal_mspi.dir/esp32s3/mspi_periph.c.obj	3e22470556280cd6
+8516	9556	8128905303719970	esp-idf/esp_hal_gpspi/CMakeFiles/__idf_esp_hal_gpspi.dir/esp32s3/spi_periph.c.obj	52e656e7f14d71d9
+8331	9813	8128905301878096	esp-idf/spi_flash/CMakeFiles/__idf_spi_flash.dir/spi_flash_wrap.c.obj	2e0fcc2e1efe0d4b
+8596	9890	8128905304537122	esp-idf/esp_hal_gpspi/CMakeFiles/__idf_esp_hal_gpspi.dir/spi_hal.c.obj	173f817fc110b913
+8695	10028	8128905305521041	esp-idf/esp_hal_gpspi/CMakeFiles/__idf_esp_hal_gpspi.dir/spi_slave_hal.c.obj	e5c74f1aeb280059
+8445	10049	8128905303025223	esp-idf/esp_hal_clock/CMakeFiles/__idf_esp_hal_clock.dir/esp32s3/clk_tree_hal.c.obj	b22000c1283c52a6
+9100	10270	8128905309574473	esp-idf/esp_hal_dma/CMakeFiles/__idf_esp_hal_dma.dir/esp32s3/gdma_periph.c.obj	15c2d1f643e59fa0
+8734	10299	8128905305913828	esp-idf/esp_hal_gpspi/CMakeFiles/__idf_esp_hal_gpspi.dir/spi_slave_hal_iram.c.obj	cc74484e42640dd8
+8909	10443	8128905307691289	esp-idf/esp_hal_dma/CMakeFiles/__idf_esp_hal_dma.dir/gdma_hal_top.c.obj	fda183d8339ed1c4
+9556	10826	8128905314134116	esp-idf/esp_hal_pmu/CMakeFiles/__idf_esp_hal_pmu.dir/brownout_hal.c.obj	2b9e167f5b98f53c
+9504	10871	8128905313623896	esp-idf/esp_hal_pmu/CMakeFiles/__idf_esp_hal_pmu.dir/esp32s3/rtc_cntl_hal.c.obj	2c3177610c7fecd
+9303	10945	8128905311610729	esp-idf/esp_hal_dma/CMakeFiles/__idf_esp_hal_dma.dir/gdma_hal_ahb_v1.c.obj	b75ea110ee0f179f
+9891	10984	8128905317480463	esp-idf/esp_hal_usb/CMakeFiles/__idf_esp_hal_usb.dir/esp32s3/usb_dwc_periph.c.obj	f67c5b6b336d3f7e
+8961	11176	8128905308169923	esp-idf/esp_hw_support/libesp_hw_support.a	ea74c9681baf3c82
+8665	11204	8128905305228557	esp-idf/esp_hal_gpspi/CMakeFiles/__idf_esp_hal_gpspi.dir/spi_hal_iram.c.obj	8d3af35e4be21686
+10028	11229	8128905318848137	esp-idf/esp_hal_usb/CMakeFiles/__idf_esp_hal_usb.dir/usb_wrap_hal.c.obj	a23abb5b9810ca54
+10049	11295	8128905319067199	esp-idf/esp_hal_usb/CMakeFiles/__idf_esp_hal_usb.dir/usb_serial_jtag_hal.c.obj	c48322eed5cf2bb9
+8887	11384	8128905307441505	esp-idf/esp_hal_gpspi/CMakeFiles/__idf_esp_hal_gpspi.dir/spi_slave_hd_hal.c.obj	776d17e94f6cd377
+10443	11471	8128905323008792	esp-idf/esp_hal_gpio/CMakeFiles/__idf_esp_hal_gpio.dir/esp32s3/rtc_io_periph.c.obj	ad1b41bfd60dd95b
+10270	11505	8128905321281003	esp-idf/esp_hal_gpio/CMakeFiles/__idf_esp_hal_gpio.dir/gpio_hal.c.obj	dc033cda0209f4ca
+8107	11665	8128905299647339	esp-idf/micro-ecc/CMakeFiles/__idf_micro-ecc.dir/uECC_verify_antifault.c.obj	b7ef66f772b2a2d8
+10827	12180	8128905326826752	esp-idf/esp_hal_gpio/CMakeFiles/__idf_esp_hal_gpio.dir/esp32s3/dedic_gpio_periph.c.obj	57ff20ccbc4c8670
+9814	12213	8128905316695409	esp-idf/esp_hal_usb/CMakeFiles/__idf_esp_hal_usb.dir/usb_dwc_hal.c.obj	713950325754a0cd
+10299	12235	8128905321561388	esp-idf/esp_hal_gpio/CMakeFiles/__idf_esp_hal_gpio.dir/rtc_io_hal.c.obj	6773eeacf7ce5ff9
+10945	12257	8128905328026088	esp-idf/esp_hal_gpio/CMakeFiles/__idf_esp_hal_gpio.dir/esp32s3/sdm_periph.c.obj	a4e679cfcd17242b
+10872	12310	8128905327293715	esp-idf/esp_hal_gpio/CMakeFiles/__idf_esp_hal_gpio.dir/sdm_hal.c.obj	8b6cddb5a99f2940
+10984	12372	8128905328417006	esp-idf/hal/CMakeFiles/__idf_hal.dir/hal_utils.c.obj	3d429b872b5a1d4
+11506	12401	8128905333636416	esp-idf/soc/CMakeFiles/__idf_soc.dir/dport_access_common.c.obj	855c02b84e685b3d
+11471	12438	8128905333288339	esp-idf/soc/CMakeFiles/__idf_soc.dir/lldesc.c.obj	85adb10d0c16b65d
+11204	12439	8128905330616917	esp-idf/hal/CMakeFiles/__idf_hal.dir/efuse_hal.c.obj	d30b201e0f1bf27a
+11665	12440	8128905335215973	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32s3/interrupts.c.obj	e1f31e77cddd00b7
+11230	12446	8128905330876228	esp-idf/hal/CMakeFiles/__idf_hal.dir/esp32s3/efuse_hal.c.obj	e4d16817b07dc486
+11296	12517	8128905331541036	esp-idf/hal/CMakeFiles/__idf_hal.dir/mmu_hal.c.obj	b29c799b2650d35a
+11176	12581	8128905330336656	esp-idf/esp_system/libesp_system.a	fd4ea2f09d32f821
+11384	12616	8128905332416868	esp-idf/hal/CMakeFiles/__idf_hal.dir/cache_hal.c.obj	c932998bb216cdf5
+12214	12755	8128905340715922	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32s3/mpi_periph.c.obj	9058f32505905c92
+12181	12759	8128905340385683	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32s3/gpio_periph.c.obj	39cdf3e86681e720
+12235	12777	8128905340912825	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32s3/power_supply_periph.c.obj	9236e877b71c44fa
+12258	12851	8128905346902010	ld/bootloader.memory.ld	57dea2788c24cf17
+12258	12851	8128905346902010	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/ld/bootloader.memory.ld	57dea2788c24cf17
+12372	12855	8128905342283711	esp-idf/xtensa/CMakeFiles/__idf_xtensa.dir/eri.c.obj	9073338a6cb0834d
+12310	12923	8128905347502251	ld/bootloader.sections.ld	818156aeb6588bfe
+12310	12923	8128905347502251	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/ld/bootloader.sections.ld	818156aeb6588bfe
+12402	13000	8128905342590747	esp-idf/xtensa/CMakeFiles/__idf_xtensa.dir/xt_trax.c.obj	7fdc57bb8db92a0f
+12581	13146	8128905344384329	esp-idf/esp_hal_systimer/libesp_hal_systimer.a	dece1b7d5471c4df
+12923	13451	8128905347794571	esp-idf/main/CMakeFiles/__idf_main.dir/bootloader_start.c.obj	59468c2e78f5b4f6
+13146	13566	8128905350036637	esp-idf/efuse/libefuse.a	667c0172a9e86e08
+13566	14007	8128905354236159	esp-idf/bootloader_support/libbootloader_support.a	26d92ddc4e9bec8f
+14007	14282	8128905358645763	esp-idf/esp_security/libesp_security.a	c816f1438e3ed50b
+14282	14524	8128905361401463	esp-idf/esp_hal_security/libesp_hal_security.a	8fcba43d664695fd
+14524	14802	8128905363820963	esp-idf/esp_hal_ana_conv/libesp_hal_ana_conv.a	72f9d9ce74f293e4
+14802	15114	8128905366594848	esp-idf/esp_hal_uart/libesp_hal_uart.a	cdba7a87f5d3fb91
+15114	15412	8128905369718607	esp-idf/esp_hal_wdt/libesp_hal_wdt.a	4b80e1c97d0cbace
+15412	15689	8128905372687678	esp-idf/esp_hal_timg/libesp_hal_timg.a	88bc594cfc038710
+15689	15987	8128905375470401	esp-idf/micro-ecc/libmicro-ecc.a	5ce1563f3674030a
+15987	16296	8128905378437945	esp-idf/esp_bootloader_format/libesp_bootloader_format.a	c75565bfe63d81d4
+16296	16583	8128905381532844	esp-idf/spi_flash/libspi_flash.a	33d85a6ad23c359c
+16583	16841	8128905384396920	esp-idf/esp_hal_mspi/libesp_hal_mspi.a	634ae1841d2c8974
+16841	17110	8128905386991395	esp-idf/esp_hal_clock/libesp_hal_clock.a	f21e1792185d41a8
+17110	17397	8128905389645691	esp-idf/esp_hal_gpspi/libesp_hal_gpspi.a	85dc3ddcdbaa22c2
+17397	17647	8128905392536106	esp-idf/esp_hal_dma/libesp_hal_dma.a	d9e26422b7e9c80a
+17647	17882	8128905395038641	esp-idf/esp_hal_pmu/libesp_hal_pmu.a	5bb2ec806bbc8320
+17882	18187	8128905397402682	esp-idf/esp_hal_usb/libesp_hal_usb.a	715383c4f63a5fc0
+18187	18446	8128905400395993	esp-idf/esp_hal_gpio/libesp_hal_gpio.a	d44eb532a94d2364
+18446	18702	8128905403033487	esp-idf/hal/libhal.a	1018f727422fa3c3
+18702	18962	8128905405595475	esp-idf/soc/libsoc.a	98387c720ebcb49c
+18962	19344	8128905408198849	esp-idf/xtensa/libxtensa.a	a8ef2ede8c30000a
+19344	19598	8128905412026807	esp-idf/main/libmain.a	df10fcae05f14623
+19598	20402	8128905414557110	bootloader.elf	1f2592293231ac4
+20403	21050	8128905428918532	.bin_timestamp	69e3413dde203a12
+20403	21050	8128905428918532	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/.bin_timestamp	69e3413dde203a12
+21051	21311	8128905429086529	CMakeFiles/bootloader_check_size	71edd6b21717b84
+21051	21311	8128905429086529	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/CMakeFiles/bootloader_check_size	71edd6b21717b84
+74	441	8129171014616564	CMakeFiles/bootloader_check_size	71edd6b21717b84
+74	441	8129171014616564	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/CMakeFiles/bootloader_check_size	71edd6b21717b84
+83	268	8129184624170606	CMakeFiles/bootloader_check_size	71edd6b21717b84
+83	268	8129184624170606	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/CMakeFiles/bootloader_check_size	71edd6b21717b84
+101	472	8129313121643284	CMakeFiles/bootloader_check_size	71edd6b21717b84
+101	472	8129313121643284	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/CMakeFiles/bootloader_check_size	71edd6b21717b84
+41	179	8129322583467817	CMakeFiles/bootloader_check_size	71edd6b21717b84
+41	179	8129322583467817	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/CMakeFiles/bootloader_check_size	71edd6b21717b84
+53	180	8129325301912795	CMakeFiles/bootloader_check_size	71edd6b21717b84
+53	180	8129325301912795	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/CMakeFiles/bootloader_check_size	71edd6b21717b84
+44	172	8129325412981585	CMakeFiles/bootloader_check_size	71edd6b21717b84
+44	172	8129325412981585	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/CMakeFiles/bootloader_check_size	71edd6b21717b84
+46	190	8129325543282821	CMakeFiles/bootloader_check_size	71edd6b21717b84
+46	190	8129325543282821	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/CMakeFiles/bootloader_check_size	71edd6b21717b84
+123	374	8143090371572727	CMakeFiles/bootloader_check_size	71edd6b21717b84
+123	374	8143090371572727	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/CMakeFiles/bootloader_check_size	71edd6b21717b84
+43	194	8143093734246340	CMakeFiles/bootloader_check_size	71edd6b21717b84
+43	194	8143093734246340	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/CMakeFiles/bootloader_check_size	71edd6b21717b84
+47	192	8143103861591498	CMakeFiles/bootloader_check_size	71edd6b21717b84
+47	192	8143103861591498	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/CMakeFiles/bootloader_check_size	71edd6b21717b84
+39	155	8143104122873713	CMakeFiles/bootloader_check_size	71edd6b21717b84
+39	155	8143104122873713	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/CMakeFiles/bootloader_check_size	71edd6b21717b84
+41	187	8143104128381481	CMakeFiles/bootloader_check_size	71edd6b21717b84
+41	187	8143104128381481	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/CMakeFiles/bootloader_check_size	71edd6b21717b84
+43	182	8143107218505719	CMakeFiles/bootloader_check_size	71edd6b21717b84
+43	182	8143107218505719	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/CMakeFiles/bootloader_check_size	71edd6b21717b84
+39	157	8143108162338424	CMakeFiles/bootloader_check_size	71edd6b21717b84
+39	157	8143108162338424	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/CMakeFiles/bootloader_check_size	71edd6b21717b84
+42	168	8143108226931390	CMakeFiles/bootloader_check_size	71edd6b21717b84
+42	168	8143108226931390	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/CMakeFiles/bootloader_check_size	71edd6b21717b84
+45	209	8143108232748556	CMakeFiles/bootloader_check_size	71edd6b21717b84
+45	209	8143108232748556	C:/Users/echav/Documents/Sistemas Embebidos/PracticasClase/clase4/Freertos_demos_paquete/Freertos_demos/build/bootloader/CMakeFiles/bootloader_check_size	71edd6b21717b84
